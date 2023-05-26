@@ -8,6 +8,7 @@
     background-color: rgb(133, 79, 79);
     grid-template-columns: 33% 34% 33% ;
     grid-template-rows: 100vh;
+
 }
 .bandera:nth-child(1){
     background-color: red;
